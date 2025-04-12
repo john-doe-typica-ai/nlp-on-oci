@@ -78,3 +78,26 @@ This application highlights how transformer-based NER can be fine-tuned and depl
 ## License
 
 This repository is provided for educational and non-commercial use. If you build upon or reference this work in your research, teaching, or development, please cite the book.
+
+## Author
+
+This repository and the accompanying book were created by **Hicham Assoudi**, AI researcher and Oracle expert, founder of [Typica.ai](https://typica.ai), and author of *Natural Language Processing on Oracle Cloud Infrastructure*.
+
+- **LinkedIn**: [linkedin.com/in/assoudi](https://www.linkedin.com/in/assoudi)  
+- **Hugging Face**: [huggingface.co/hassoudi](https://huggingface.co/hassoudi)  
+- **Book Page (SpringerLink)**: [https://link.springer.com/book/10.1007/979-8-8688-1073-2](https://link.springer.com/book/10.1007/979-8-8688-1073-2)
+
+## Citation
+
+If you use this work in your research, please cite it as:
+
+```bibtex
+@book{assoudi2025nlpoci,
+  title     = {Natural Language Processing on Oracle Cloud Infrastructure: Building Transformer-Based NLP Solutions Using Oracle AI and Hugging Face},
+  author    = {Hicham Assoudi},
+  year      = {2025},
+  publisher = {Apress},
+  isbn      = {9781484296076},
+  url       = {https://link.springer.com/book/10.1007/979-8-8688-1073-2}
+}
+```
