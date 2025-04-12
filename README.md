@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="979-8-8688-1072-5.jpg" alt="Book Cover: Natural Language Processing on Oracle Cloud Infrastructure" width="300"/>
+</p>
+
 # Natural Language Processing on Oracle Cloud Infrastructure
 
 This repository contains the full source code that accompanies the book *[Natural Language Processing on Oracle Cloud Infrastructure: Building Transformer-Based NLP Solutions Using Oracle AI and Hugging Face](https://a.co/d/1GJWZNj)*, published by Apress in 2025.
