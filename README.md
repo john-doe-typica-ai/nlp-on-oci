@@ -27,7 +27,7 @@ Each subfolder maps to a chapter of the book’s implementation section (Chapter
 |------------|-----------------------------------------------------------------------------|
 | `chapt-4`  | OCI tenancy setup, resource provisioning, and workspace configuration       |
 | `chapt-5`  | Data wrangling, labeling via OCI Data Labeling, and dataset export to HF    |
-| `chapt-6`  | Model selection and fine-tuning (e.g., CamemBERT), performance diagnostics   |
+| `chapt-6`  | Model selection and fine-tuning (e.g., almanach/camembert-bio-base), performance diagnostics   |
 | `chapt-7`  | Model deployment using OCI Data Science Model Deployment                    |
 | `chapt-8`  | MLOps using OCI Pipelines, cost considerations, and responsible AI insights |
 
