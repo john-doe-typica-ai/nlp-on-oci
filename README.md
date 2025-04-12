@@ -1,6 +1,6 @@
 # Natural Language Processing on Oracle Cloud Infrastructure
 
-This repository contains the full source code that accompanies the book *[Natural Language Processing on Oracle Cloud Infrastructure: Building Transformer-Based NLP Solutions Using Oracle AI and Hugging Face](https://www.amazon.com/dp/1484296074)*, published by Apress in 2025.
+This repository contains the full source code that accompanies the book *[Natural Language Processing on Oracle Cloud Infrastructure: Building Transformer-Based NLP Solutions Using Oracle AI and Hugging Face](https://a.co/d/1GJWZNj)*, published by Apress in 2025.
 
 It provides a practical, end-to-end implementation of a real-world healthcare NLP use case—using transformers from Hugging Face and cloud-native services from Oracle Cloud Infrastructure (OCI). The content is designed to be accessible to practitioners, researchers, and students alike.
 
